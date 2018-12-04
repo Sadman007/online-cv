@@ -33,9 +33,10 @@ sidebar:
 
 career-profile:
     title: Volunteering
-    summary:
-      - item: <b>Co-founder,Author & Editor</b> at [Shoshikkha](http://shoshikkha.com/)
-      - item: <b>Trainer</b> at Junior Programming Workshop,CSEDU          
+    summary: |
+          
+          - <b>Co-founder,Author & Editor</b> at [Shoshikkha](http://shoshikkha.com/)
+          - <b>Trainer</b> at Junior Programming Workshop,CSEDU          
     
 
 education:
