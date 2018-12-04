@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,10 +14,9 @@ sidebar:
     email: sakib.csedu21@gmail.com
     phone: +8801670924881
     website: www.facebook.com/saadmaan.sakib #do not add http://
-    linkedin: alandoe
+    linkedin: sadman007
     github: sadman007
-    linkedin : sadman007
-
+    
     languages:
       - idiom: Bangla
         level: Native
@@ -44,19 +43,6 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
     - degree: BSc in Computer Science & Engineering
       university: University of Dhaka
       time: 2015-2019
