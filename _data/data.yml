@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -26,14 +26,11 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
+      - item: Photography
 
-      - item: Snowboarding
-        link:
+      - item: Travelling
 
-      - item: Cooking
-        link:
+      - item: Programming
 
 career-profile:
     title: Career Profile
@@ -60,9 +57,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science & Engineering
+      university: University of Dhaka
+      time: 2015-2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
