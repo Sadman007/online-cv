@@ -36,8 +36,7 @@ career-profile:
     summary: |
           
           - <b>Co-founder,Author & Editor</b> at [Shoshikkha](http://shoshikkha.com/)
-          - <b>Trainer</b> at [Junior Programming Workshop,CSEDU](https://www.facebook.com/Dept.CSE.DU/photos/a.146688232163212/707310139434349/?type=3&theater)
-          - thank you
+          - <b>Trainer</b> at [Junior Programming Workshop,CSEDU](https://www.facebook.com/Dept.CSE.DU/photos/a.146688232163212/707310139434349/?type=3&theater)    
     
 
 education:
@@ -84,10 +83,23 @@ projects:
 
 publications:
     title: Competitive Programming
-    summary: |
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
 
-          - <b>Co-founder,Author & Editor</b> at [Shoshikkha](http://shoshikkha.com/)
-          - <b>Trainer</b> at [Junior Programming Workshop,CSEDU](https://www.facebook.com/Dept.CSE.DU/photos/a.146688232163212/707310139434349/?type=3&theater)
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
