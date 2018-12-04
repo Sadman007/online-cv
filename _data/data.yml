@@ -32,7 +32,7 @@ sidebar:
       - item: Programming
 
 career-profile:
-    title: Career Profile
+    title: Education
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -46,15 +46,14 @@ education:
     - degree: BSc in Computer Science & Engineering
       university: University of Dhaka
       time: 2015-2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+     
+     - degree: Higher Secondary School Certificate
+      college: Notre Dame College
+      time: 2014
+      
+     - degree: Secondary School Certificate
+      school: Monipur High School & College
+      time: 2012
 
 experiences:
     - role: Lead Developer
